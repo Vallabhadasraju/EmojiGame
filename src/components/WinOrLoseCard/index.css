@@ -1,0 +1,60 @@
+.result-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff33;
+  border: 2px solid #ffffff30;
+  border-radius: 12px;
+  padding: 30px;
+  width: 90%;
+  max-width: 800px;
+  margin-top: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.text-container {
+  text-align: center;
+  color: #3d3d3d;
+  flex: 1;
+}
+
+.result-text {
+  font-size: 32px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.score-label {
+  font-size: 18px;
+  color: #ffffff;
+  margin-bottom: 4px;
+}
+
+.score-value {
+  font-size: 24px;
+  font-weight: bold;
+  color: #3b3b3b;
+  margin-bottom: 20px;
+}
+
+.play-again-btn {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.play-again-btn:hover {
+  background-color: #e6b800;
+}
+
+.result-img {
+  width: 250px;
+  height: auto;
+  margin-left: 30px;
+}
