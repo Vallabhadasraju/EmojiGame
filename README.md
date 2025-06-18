@@ -1,1 +1,1 @@
-Output[https://emoji-game-gold.vercel.app/]
+Output[https://emoji-game-beta.vercel.app/]
